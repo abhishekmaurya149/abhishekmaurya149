@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhishekmaurya149?tab=repositories](https://github.com/abhishekmaurya149?tab=repositories)
 
-- 📫 How to reach me **https://www.linkedin.com/in/abhishek-maurya-746761211/**
+- 📫 How to reach me **https://abhishekmaurya55.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
