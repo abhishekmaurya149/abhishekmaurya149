@@ -1,10 +1,4 @@
 ![logo](https://github.com/abhishekmaurya149/abhishekmaurya149/blob/main/LinkedIn%20Background%20Photo(1).png)
-<h1 align="center">Hi 👋, I'm Abhishek Maurya</h1>
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
-
-- 🔭 I’m currently working on **LawLedger**
-
-- 🌱 I’m currently learning **Spring Boot**
 
 -<h1 align="center">Hi 👋, I'm Abhishek Maurya</h1>
 <h3 align="center">Application Support Engineer | SRE Enthusiast | DevOps & Cloud Learner from India 🇮🇳</h3>
